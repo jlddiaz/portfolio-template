@@ -19,6 +19,13 @@ Para iniciar con este proyecto debes tener lo siguiente:
 
 Una recomendación nuestra es que uses la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para VS Code. Esta extensión te permite iniciar un servidor en tiempo real y ver los cambios que se hagan en el código.
 
+## Manejo de Git
+```
+$ git add .
+$ git commit -m "descripción del commit"
+$ git push origin main
+```
+
 ## Manejo de problemas
 
 Si tienes alguna duda o problema que no se puede resolver en el proyecto te animamos a que lo consultes con los instructores. El problema que enfrentas puede sucederle a otro compañero.
